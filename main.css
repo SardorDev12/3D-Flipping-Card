@@ -23,7 +23,7 @@ body {
     perspective: 10000px;
 }
 .card:hover .back-side {
-    transform: rotateY(0deg);
+    transform: rotateY(180deg);
 }
 .card:hover .front-side {
     transform: rotateY(-180deg);
